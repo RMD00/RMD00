@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on DigitalOcean's Hacktoberfest 2023 <br>
-🌱 I’m currently learning JavaScript, Ruby and Typescript
+🌱 I’m currently learning JavaScript, Ruby and Typescript <br>
+⚡ My first coding langaugages were HTML and C#
 
 [![An image of @rmd00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rmd00)](https://holopin.io/@rmd00)
 
